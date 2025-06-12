@@ -1,5 +1,5 @@
 # Employee Data Analysis in Excel
-This project focuses on analyzing employee data using Excel to answer five key business questions. The project includes data summaries,currency conertor , bonus calculations, pivot tables, and visualization in Box plot for find the salary range.
+This project focuses on analyzing employee data using Excel to answer five key business questions. The project includes data summaries,currency convertor (sell reference lock using function+f4 key, bonus calculations formulas using (IF,IFS), pivot tables, and visualization in Box plot for find the salary range.
 
 ## Business Questions Addressed
 
