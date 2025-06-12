@@ -25,7 +25,7 @@ This project focuses on analyzing employee data using Excel to answer five key b
 
 
 4. **Department Summary Report (Pivot Table)**  
-   - Created an interactive Pivot Table to summarize employee count, average salary, and total bonuses by department.
+   - Created an interactive Pivot Table to summarize employee count, sum of salary, average salary, and sum of FTE.
      ## screenshot 4
      ![image](https://github.com/user-attachments/assets/87d93f0f-8942-410e-9df4-ffd7662f3504)
 
