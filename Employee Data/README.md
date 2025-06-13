@@ -33,8 +33,8 @@ This project focuses on analyzing employee data using Excel to answer five key b
 5. **Salary Exploration by Gender (Box Plots)**  
  Used Excel's box plot/chart tools to compare salary distributions between gender
  ## screenshot 5
-     ![image](https://github.com/user-attachments/assets/f811fda8-e758-446a-923e-a443ba6cd8fb)
-
+  ![image](https://github.com/user-attachments/assets/b8616795-edfa-496f-a1b1-673e8f48e3ba)
+   
 
      ## Project Insight
 - Certain departments have higher salary averages.
