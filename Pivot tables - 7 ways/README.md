@@ -3,7 +3,7 @@ This project explores chocolate sales data using seven different Pivot Table tec
 ## Key Highlights
 Using Excel Pivot Tables 
   - Total Sales By Proct
-  - Totals Sales by Region and Category (2 0r multi leel Pivot table)
+  - Totals Sales by Region and Category (2 or multi level Pivot table)
   - Sales by Region and Added the filter only for the Category (2 0r multi leel Pivot table)
   - Top 10 Products by customer Filter (value Filter)
   -  Interactive Pivot Table (Pivot Charts)
